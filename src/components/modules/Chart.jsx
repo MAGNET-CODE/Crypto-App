@@ -40,7 +40,7 @@ function Chart({ chart, setChart }) {
                  </div>
                  <div>
                     <p>Market Caps:</p>
-                    <span>${chart.coin.market_cap}</span>
+                    <span>{chart.coin.market_cap}</span>
                  </div>
             </div>
         </div>
